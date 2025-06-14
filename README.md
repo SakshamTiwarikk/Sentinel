@@ -1,6 +1,7 @@
 # 🚀 Sentinel
 
-A modern web application built to [insert purpose or tagline, e.g., "monitor, manage and visualize XYZ"].
+A fully animated, visually striking website with smooth scroll-triggered animations, a responsive layout, and engaging transitions. It features a dynamic hero section, modular content blocks, sticky navigation, and parallax effects for depth. Built with modern web technologies (likely React + animation libraries), the site delivers a sleek user experience without any backend integration.
+
 
 ## 🌐 Live Demo
 [Click here to view the live app](https://sentinel-dun.vercel.app/)
